@@ -1,4 +1,6 @@
-# cs445Nov2022
-## Day 2
-This is remote repository section
-**bold text**
+# cs445Nov2022 Homework solutions
+1. [Lab 1](https://github.com/bellaxing/cs445Nov2022/edit/main/lab1.md)
+2. [Lab 2](https://github.com/bellaxing/cs445Nov2022/edit/main/lab1.md)
+3. [Lab 3](https://github.com/bellaxing/cs445Nov2022/edit/main/lab1.md)
+
+
